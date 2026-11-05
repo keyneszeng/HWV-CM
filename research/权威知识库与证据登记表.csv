@@ -1,0 +1,40 @@
+ID,类型,名称,年份或访问,官方或学术链接,用途,使用许可提醒,关键备注
+S01,基本价值观,Schwartz et al. (2012) 19 refined basic values,2012,https://pubmed.ncbi.nlm.nih.gov/22823292/,一级理论,论文可阅读；量表及翻译使用另查授权,说明价值动力连续体及19细分价值
+S02,基本价值观,Schwartz & Cieciuch PVQ-RR in 49 cultural groups,2022,https://doi.org/10.1177/1073191121998760,跨文化量表验证,核验PVQ-RR复制/商业使用权限,"53,472人、49文化群体；部分维度跨群体可靠性不同"
+S03,基本价值观,Schwartz (2021) repository of value scales,2021,https://doi.org/10.9707/2307-0919.1173,原作者量表库,仓库文档标注CC BY-NC-ND，商业与改编必须逐项确认,授权版本与计分说明
+S04,基本价值观,GESIS ESS Human Values Scale PVQ21,访问2026,https://zis.gesis.org/s/skala/Schwartz-Breyer-Danner-Human-Values-Scale-%28ESS%29?lang=en,权威量表文档,核验ESS具体问卷版本许可和署名条款,21题/10类；勿误称等同PVQ-RR 19类
+S05,跨国数据,World Values Survey official documentation,访问2026,https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=Documentation,跨国样本数据库,注册、署名、非再分发约束,2017—2022 第7轮已发布；第8轮调查另行开展
+S06,跨国数据,Joint EVS/WVS 2017–2022,2024,https://europeanvaluesstudy.eu/new-dataset-versions/,跨国联合数据库,依GESIS/WVS逐数据集协议,102项调查、92国家/地区、超过15.6万人
+S07,跨国数据,International Social Survey Programme / GESIS,访问2026,https://www.gesis.org/en/issp/data-and-documentation,跨国分主题调查,注册、数据使用条款,社会不平等、家庭性别分工、社会网络等
+S08,跨国数据,Afrobarometer merged data,2025/2026,https://www.afrobarometer.org/data/merged-data/,非洲跨国数据,遵守数据使用政策,第10轮整合数据覆盖38国
+S09,跨国数据,Arab Barometer survey data,2025–2026,https://www.arabbarometer.org/survey-data/data-downloads/,中东北非跨国数据,下载需填写表单，具体条款另核验,第9轮等公开资料
+S10,跨国数据,Latinobarómetro 2024,2024,https://www.latinobarometro.org/latinobarometro-2024,拉美跨国数据,非商业研究使用、禁止再分发,2024年18国家/地区
+S11,跨国数据,Asian Barometer Survey,2026,https://asianbarometer.org/datar,亚洲跨国数据,依申请获取；国家专项变量不一定可用,第5轮和部分第6轮数据
+S12,中国数据,中国综合社会调查 CGSS / 中国人民大学,2023/2026,https://cgss.ruc.edu.cn/,中国本土调查,依新CSSD平台条款申请,社会态度、家庭、社会信任、价值观
+S13,中国数据,中国家庭追踪调查 CFPS / 北京大学,访问2026,https://www.isss.pku.edu.cn/cfps/en/,中国纵向家庭数据,按调查项目数据许可申请,家庭、个人、经济与非经济福祉纵向观察
+S14,人格,Soto & John BFI-2 official Berkeley page,2017,https://www.ocf.berkeley.edu/~johnlab/bfi,人格测量,版权归作者；非商业研究许可，不可默认商用,5个因素/15个面向/60题
+S15,人格,International Personality Item Pool,访问2026,https://ipip.ori.org/,公有领域题库,官方明确公共领域，可复制修改翻译,3000+题目、250+量表
+S16,人格,HEXACO-PI-R official,访问2026,https://hexaco.org/hexaco-inventory,六因素人格量表,免费仅非营利研究；商业用途联系作者,包含诚实谦逊维度
+S17,道德推理,MFQ-2 cross-cultural development,2023,https://pubmed.ncbi.nlm.nih.gov/37589704/,道德直觉框架,论文不等于问卷商用授权,6类：关怀/平等/比例公平/忠诚/权威/纯洁
+S18,道德推理,MFQ-2 independent replication & comparison,2024,https://doi.org/10.1007/s12144-024-06097-z,独立验证,研究工具使用逐项核验,与实际行为对应有限，不能作道德判决
+S19,心理需求,Basic Psychological Need Satisfaction and Frustration Scale,2015,https://selfdeterminationtheory.org/basic-psychological-need-satisfaction-and-frustration-scale/,心理需要测量,核验官方包授权,自主、胜任、关系联结，满足与受挫区分
+S20,人生目标,SDT Aspirations Index,访问2026,https://selfdeterminationtheory.org/aspirations-index/,人生目标研究,核验官方包授权,内在追求与外在追求
+S21,生命意义,Steger Meaning in Life Questionnaire,2006,https://ppc.sas.upenn.edu/node/213,意义研究,原量表声明非商用，商用须获许可,意义感存在与意义探索
+S22,人际关系,Fraley ECR-R official,2000,https://labs.psychology.illinois.edu/~rcfraley/measures/ecrr.htm,依恋研究,逐项核验版权/商用,依恋焦虑与依恋回避（在亲密关系中）
+S23,情绪,Gross & John emotion regulation,2003,https://pubmed.ncbi.nlm.nih.gov/12916575/,情绪调节,ERQ 使用需核验授权,认知重评与表达抑制
+S24,冲突,Rahim ROCI-II five styles,1995,https://pubmed.ncbi.nlm.nih.gov/7706190/,冲突应对,量表商业许可未确认，不直接复制,整合/顺从/支配/回避/妥协
+S25,关系统计,Actor–Partner Interdependence Model,2005,https://doi.org/10.1080/01650250444000405,双人关系分析方法,论文版权按出版商政策,分析双向关联，不能自动做因果断言
+S26,认知,Intellectual Humility Scale,2017,https://pubmed.ncbi.nlm.nih.gov/28903672/,认知开放性,题目许可另查,信念可错与愿意修正观点
+S27,认知,Belief in Just World instrument review,访问2026,https://sjdm.org/dmidi/Belief_in_a_Just_World.html,世界公平信念,权属逐项查证,程序公平与分配公平等
+S28,测量标准,AERA/APA/NCME Standards for Testing,2014,https://www.testingstandards.net/open-access-files.html,测量标准,标准可开放阅读，不等于所有测试免版权,效度/信度/公平性
+S29,跨语言标准,ITC Guidelines Translating and Adapting Tests 2nd ed,2017,https://www.intestcom.org/page/14,跨文化适配标准,遵守源测试许可,翻译、认知访谈与测量等价性
+S30,研究数据库,APA PsycTests,访问2026,https://www.apa.org/pubs/databases/psyctests,测量工具索引,机构订阅；商业量表需版权许可,量表信效度、权限和来源
+S31,研究数据库,APA PsycInfo,访问2026,https://www.apa.org/pubs/databases/psycinfo,心理学文献索引,订阅,心理学与社会行为研究文献
+S32,研究数据库,OpenAlex scholarly graph,访问2026,https://help.openalex.org/data/works/,学术发现/索引,元数据开放，原文权利各异,论文发现及文献追溯
+S33,研究伦理,NIST AI Risk Management Framework 1.0,2023,https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10,AI风险治理,开放标准,可解释、可靠、公平、隐私、安全
+S34,研究伦理,UNESCO Recommendation on Ethics of AI,2021,https://www.unesco.org/ethics-ai/en/recommendation,国际伦理原则,可引用政策文件,人权、透明、人类监督与隐私
+S35,法律,EU Commission GDPR special categories,访问2026,https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en,隐私合规参考,遵守适用法律,宗教/哲学信念等涉及特别类别数据
+S36,法律,中华人民共和国个人信息保护法,2021,https://www.miit.gov.cn/jgsj/zfs/fl/art/2022/art_515a4b20c12f430eab54bb4f56d89f56.html,中国合规参考,遵守适用法律,敏感个人信息特定目的、必要性、单独同意
+S37,跨文化方法,Henrich et al. WEIRD limitation,2010,https://pubmed.ncbi.nlm.nih.gov/20550733/,跨文化审慎,论文版权遵守出版方,西方样本不能等于全人类
+S38,冲突沟通证据,Disagreement Gets Mistaken for Bad Listening,2024,https://pubmed.ncbi.nlm.nih.gov/38630602/,沟通机制证据,论文版权遵守出版方,不同意见会被误解为没有倾听
+S39,冲突沟通证据,Listen for a change? PNAS field experiment,2025,https://doi.org/10.1073/pnas.2421982122,干预证据,论文版权遵守出版方,倾听改善互动印象，不一定改变立场

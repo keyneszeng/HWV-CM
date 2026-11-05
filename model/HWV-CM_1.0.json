@@ -1,0 +1,800 @@
+{
+  "model_id": "HWV-CM",
+  "version": "1.0.0",
+  "status": "research_spec_not_validated",
+  "as_of": "2026-11-05",
+  "full_name": "Human Worldview, Lifeview and Values Cognitive Model",
+  "purpose": "理解个体自陈的价值排序、社会信念、人生目标和人际互动模式，以辅助反思与非强制性的冲突协商",
+  "non_goals": [
+    "人格诊断",
+    "读心或隐蔽画像",
+    "道德评分或判定谁更善良",
+    "预测伴侣必然分手",
+    "未经同意推断政治宗教等敏感信念",
+    "自动决定关系去留"
+  ],
+  "domains": [
+    {
+      "id": "W",
+      "name": "世界观",
+      "temporal": "slow-changing",
+      "constructs": [
+        {
+          "id": "W.trust",
+          "name": "对他人及制度的信任",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "W.justice",
+          "name": "公平观：程序/结果/应得",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "W.social_order",
+          "name": "规则、权威与社会秩序观",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "W.uncertainty",
+          "name": "对不确定性与风险的容忍",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "W.epistemic_humility",
+          "name": "信念可修正性与知识谦逊",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S05",
+        "S07",
+        "S26",
+        "S27"
+      ]
+    },
+    {
+      "id": "L",
+      "name": "人生观",
+      "temporal": "slow-changing",
+      "constructs": [
+        {
+          "id": "L.meaning_presence",
+          "name": "生命意义的存在感",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "L.meaning_search",
+          "name": "寻找人生意义的程度",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "L.life_goals",
+          "name": "内在与外在人生目标权重",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "L.time_orientation",
+          "name": "短期与长期取向",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "L.agency_responsibility",
+          "name": "自主性、责任观和人生选择",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S19",
+        "S20",
+        "S21"
+      ]
+    },
+    {
+      "id": "V",
+      "name": "价值观",
+      "temporal": "slow-changing",
+      "constructs": [
+        {
+          "id": "V.self_direction_thought",
+          "name": "自主思考",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.self_direction_action",
+          "name": "自主行动",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.stimulation",
+          "name": "寻求刺激与新颖",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.hedonism",
+          "name": "享乐",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.achievement",
+          "name": "成就",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.power_dominance",
+          "name": "支配权力",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.power_resources",
+          "name": "资源权力",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.face",
+          "name": "面子/维护公众形象",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.security_personal",
+          "name": "个人安全",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.security_societal",
+          "name": "社会安全",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.tradition",
+          "name": "传统",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.conformity_rules",
+          "name": "遵守规则",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.conformity_interpersonal",
+          "name": "人际顺从",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.humility",
+          "name": "谦逊",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.benevolence_caring",
+          "name": "关怀亲近者",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.benevolence_dependability",
+          "name": "可靠守信",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.universalism_concern",
+          "name": "关心普遍福祉",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.universalism_nature",
+          "name": "保护自然",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "V.universalism_tolerance",
+          "name": "包容差异",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "id": "M",
+      "name": "道德判断侧面",
+      "temporal": "context-dependent",
+      "constructs": [
+        {
+          "id": "M.care",
+          "name": "关怀与避免伤害",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "M.equality",
+          "name": "平等原则",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "M.proportionality",
+          "name": "按贡献比例分配的公平",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "M.loyalty",
+          "name": "忠诚与群体义务",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "M.authority",
+          "name": "权威与秩序",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "M.purity",
+          "name": "纯洁与神圣性",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S17",
+        "S18"
+      ]
+    },
+    {
+      "id": "P",
+      "name": "人格及认知倾向",
+      "temporal": "relatively-stable",
+      "constructs": [
+        {
+          "id": "P.extraversion",
+          "name": "外向",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "P.agreeableness",
+          "name": "宜人",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "P.conscientiousness",
+          "name": "尽责",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "P.negative_emotionality",
+          "name": "负性情绪性",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "P.open_mindedness",
+          "name": "开放",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "P.honesty_humility_optional",
+          "name": "诚实-谦逊（可选；不是Big Five维度）",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S14",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "R",
+      "name": "人际关系模式",
+      "temporal": "relationship-specific",
+      "constructs": [
+        {
+          "id": "R.attachment_anxiety",
+          "name": "亲密关系依恋焦虑",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "R.attachment_avoidance",
+          "name": "亲密关系依恋回避",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "R.agency",
+          "name": "互动中的自主与主导",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "R.communion",
+          "name": "互动中的亲近与联结",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "R.boundaries",
+          "name": "关系边界及互惠期待",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "R.role_expectations",
+          "name": "角色义务与关系期待",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S22",
+        "S25"
+      ]
+    },
+    {
+      "id": "E",
+      "name": "情绪与冲突模式",
+      "temporal": "state-and-habit",
+      "constructs": [
+        {
+          "id": "E.triggers",
+          "name": "易触发事件与解释",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "E.reappraisal",
+          "name": "认知重评习惯",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "E.suppression",
+          "name": "表达抑制习惯",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "E.conflict_style",
+          "name": "冲突应对偏好",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "E.escalation",
+          "name": "升级与追逐-退避循环",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "E.repair",
+          "name": "修复方式与对沟通的偏好",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S23",
+        "S24",
+        "S38",
+        "S39"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "情境与权力层（非固定人格属性）",
+      "temporal": "event-specific",
+      "constructs": [
+        {
+          "id": "C.relationship_role",
+          "name": "关系类型和角色",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "C.resources",
+          "name": "现实资源、时间、利益",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "C.power_asymmetry",
+          "name": "权力与依赖不对称",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "C.cultural_context",
+          "name": "语言、社会背景及情境规范",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        },
+        {
+          "id": "C.safety",
+          "name": "强制控制、威胁或人身安全风险",
+          "measurement_status": "需要研究验证",
+          "evidence": []
+        }
+      ],
+      "source_ids": [
+        "S05",
+        "S12",
+        "S13",
+        "S33",
+        "S34"
+      ]
+    }
+  ],
+  "data_model": {
+    "person_profile": {
+      "person_id": "随机生成的假名标识",
+      "consent_version": "同意文本版本",
+      "language": "用户自选",
+      "created_at": "ISO 8601",
+      "construct_observations": [
+        {
+          "construct_id": "V.benevolence_dependability",
+          "value": null,
+          "response_type": "likert_or_rank_or_narrative",
+          "evidence_source": "self_report_or_scenario_or_user_confirmed_event",
+          "observed_at": "ISO 8601",
+          "context": "自选场景",
+          "consent_scope": [
+            "self_only"
+          ],
+          "uncertainty": "not_estimated",
+          "validated_scale_id": null
+        }
+      ],
+      "user_corrections": [],
+      "delete_requested": false
+    },
+    "relationship": {
+      "relationship_id": "随机生成的假名标识",
+      "participants": [
+        "A",
+        "B"
+      ],
+      "permissions_by_person": {},
+      "joint_agreements": [],
+      "private_items_never_auto_shared": true
+    },
+    "event": {
+      "event_id": "随机生成的假名标识",
+      "safety_state": "unknown_or_safe_or_risk",
+      "participants": {},
+      "observable_facts": [],
+      "disputed_claims": [],
+      "interpretations": [],
+      "feelings_self_reported": [],
+      "needs_self_reported": [],
+      "proposed_options": [],
+      "consent_for_joined_report": false,
+      "follow_up": []
+    },
+    "claim": {
+      "claim_id": "标识",
+      "speaker": "A_or_B",
+      "claim_type": "fact_or_interpretation_or_feeling_or_request",
+      "provenance": "original_account",
+      "other_party_confirmed": false,
+      "uncertainty": "not_estimated"
+    }
+  },
+  "processing_pipeline": [
+    "独立获取当事人自愿同意",
+    "安全风险筛查；风险时暂停联席调解",
+    "分别收集双方叙述且标注来源",
+    "拆分已确认事实/争议事实/主观解释",
+    "按本人确认资料检索相关价值和需求",
+    "产出至少两种可修正的冲突成因假设",
+    "双方分别确认或纠正 AI 假设",
+    "给出非强制且可操作的协商选项",
+    "双方自愿制定约定并跟踪结果",
+    "用户同意后才写回个人和关系模型"
+  ],
+  "inference_policy": {
+    "never_infer_sensitive_from_text_without_opt_in": true,
+    "never_share_private_profile_across_persons_without_permission": true,
+    "unknown_should_be_unknown": true,
+    "no_single_compatibility_score": true,
+    "reasoning_is_hypothesis_not_truth": true
+  },
+  "acceptance_gates": {
+    "scientific": [
+      "内容效度",
+      "重测信度",
+      "结构/聚合/区分效度",
+      "跨语言测量等价性",
+      "公平与偏差评估",
+      "真实场景外部效度"
+    ],
+    "safety": [
+      "明确同意与撤回",
+      "加密及最小化留存",
+      "独立私密空间",
+      "伤害情境拒绝强制调解",
+      "敏感分类及跨境规则"
+    ],
+    "product": [
+      "双方感到被公正对待",
+      "事实与解释分离",
+      "建议可操作",
+      "用户能纠正假设",
+      "有中长期结果跟踪"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Schwartz et al. (2012) 19 refined basic values",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22823292/",
+      "access_note": "论文可阅读；量表及翻译使用另查授权"
+    },
+    {
+      "id": "S02",
+      "title": "Schwartz & Cieciuch PVQ-RR in 49 cultural groups",
+      "url": "https://doi.org/10.1177/1073191121998760",
+      "access_note": "核验PVQ-RR复制/商业使用权限"
+    },
+    {
+      "id": "S03",
+      "title": "Schwartz (2021) repository of value scales",
+      "url": "https://doi.org/10.9707/2307-0919.1173",
+      "access_note": "仓库文档标注CC BY-NC-ND，商业与改编必须逐项确认"
+    },
+    {
+      "id": "S04",
+      "title": "GESIS ESS Human Values Scale PVQ21",
+      "url": "https://zis.gesis.org/s/skala/Schwartz-Breyer-Danner-Human-Values-Scale-%28ESS%29?lang=en",
+      "access_note": "核验ESS具体问卷版本许可和署名条款"
+    },
+    {
+      "id": "S05",
+      "title": "World Values Survey official documentation",
+      "url": "https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=Documentation",
+      "access_note": "注册、署名、非再分发约束"
+    },
+    {
+      "id": "S06",
+      "title": "Joint EVS/WVS 2017–2022",
+      "url": "https://europeanvaluesstudy.eu/new-dataset-versions/",
+      "access_note": "依GESIS/WVS逐数据集协议"
+    },
+    {
+      "id": "S07",
+      "title": "International Social Survey Programme / GESIS",
+      "url": "https://www.gesis.org/en/issp/data-and-documentation",
+      "access_note": "注册、数据使用条款"
+    },
+    {
+      "id": "S08",
+      "title": "Afrobarometer merged data",
+      "url": "https://www.afrobarometer.org/data/merged-data/",
+      "access_note": "遵守数据使用政策"
+    },
+    {
+      "id": "S09",
+      "title": "Arab Barometer survey data",
+      "url": "https://www.arabbarometer.org/survey-data/data-downloads/",
+      "access_note": "下载需填写表单，具体条款另核验"
+    },
+    {
+      "id": "S10",
+      "title": "Latinobarómetro 2024",
+      "url": "https://www.latinobarometro.org/latinobarometro-2024",
+      "access_note": "非商业研究使用、禁止再分发"
+    },
+    {
+      "id": "S11",
+      "title": "Asian Barometer Survey",
+      "url": "https://asianbarometer.org/datar",
+      "access_note": "依申请获取；国家专项变量不一定可用"
+    },
+    {
+      "id": "S12",
+      "title": "中国综合社会调查 CGSS / 中国人民大学",
+      "url": "https://cgss.ruc.edu.cn/",
+      "access_note": "依新CSSD平台条款申请"
+    },
+    {
+      "id": "S13",
+      "title": "中国家庭追踪调查 CFPS / 北京大学",
+      "url": "https://www.isss.pku.edu.cn/cfps/en/",
+      "access_note": "按调查项目数据许可申请"
+    },
+    {
+      "id": "S14",
+      "title": "Soto & John BFI-2 official Berkeley page",
+      "url": "https://www.ocf.berkeley.edu/~johnlab/bfi",
+      "access_note": "版权归作者；非商业研究许可，不可默认商用"
+    },
+    {
+      "id": "S15",
+      "title": "International Personality Item Pool",
+      "url": "https://ipip.ori.org/",
+      "access_note": "官方明确公共领域，可复制修改翻译"
+    },
+    {
+      "id": "S16",
+      "title": "HEXACO-PI-R official",
+      "url": "https://hexaco.org/hexaco-inventory",
+      "access_note": "免费仅非营利研究；商业用途联系作者"
+    },
+    {
+      "id": "S17",
+      "title": "MFQ-2 cross-cultural development",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37589704/",
+      "access_note": "论文不等于问卷商用授权"
+    },
+    {
+      "id": "S18",
+      "title": "MFQ-2 independent replication & comparison",
+      "url": "https://doi.org/10.1007/s12144-024-06097-z",
+      "access_note": "研究工具使用逐项核验"
+    },
+    {
+      "id": "S19",
+      "title": "Basic Psychological Need Satisfaction and Frustration Scale",
+      "url": "https://selfdeterminationtheory.org/basic-psychological-need-satisfaction-and-frustration-scale/",
+      "access_note": "核验官方包授权"
+    },
+    {
+      "id": "S20",
+      "title": "SDT Aspirations Index",
+      "url": "https://selfdeterminationtheory.org/aspirations-index/",
+      "access_note": "核验官方包授权"
+    },
+    {
+      "id": "S21",
+      "title": "Steger Meaning in Life Questionnaire",
+      "url": "https://ppc.sas.upenn.edu/node/213",
+      "access_note": "原量表声明非商用，商用须获许可"
+    },
+    {
+      "id": "S22",
+      "title": "Fraley ECR-R official",
+      "url": "https://labs.psychology.illinois.edu/~rcfraley/measures/ecrr.htm",
+      "access_note": "逐项核验版权/商用"
+    },
+    {
+      "id": "S23",
+      "title": "Gross & John emotion regulation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12916575/",
+      "access_note": "ERQ 使用需核验授权"
+    },
+    {
+      "id": "S24",
+      "title": "Rahim ROCI-II five styles",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7706190/",
+      "access_note": "量表商业许可未确认，不直接复制"
+    },
+    {
+      "id": "S25",
+      "title": "Actor–Partner Interdependence Model",
+      "url": "https://doi.org/10.1080/01650250444000405",
+      "access_note": "论文版权按出版商政策"
+    },
+    {
+      "id": "S26",
+      "title": "Intellectual Humility Scale",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28903672/",
+      "access_note": "题目许可另查"
+    },
+    {
+      "id": "S27",
+      "title": "Belief in Just World instrument review",
+      "url": "https://sjdm.org/dmidi/Belief_in_a_Just_World.html",
+      "access_note": "权属逐项查证"
+    },
+    {
+      "id": "S28",
+      "title": "AERA/APA/NCME Standards for Testing",
+      "url": "https://www.testingstandards.net/open-access-files.html",
+      "access_note": "标准可开放阅读，不等于所有测试免版权"
+    },
+    {
+      "id": "S29",
+      "title": "ITC Guidelines Translating and Adapting Tests 2nd ed",
+      "url": "https://www.intestcom.org/page/14",
+      "access_note": "遵守源测试许可"
+    },
+    {
+      "id": "S30",
+      "title": "APA PsycTests",
+      "url": "https://www.apa.org/pubs/databases/psyctests",
+      "access_note": "机构订阅；商业量表需版权许可"
+    },
+    {
+      "id": "S31",
+      "title": "APA PsycInfo",
+      "url": "https://www.apa.org/pubs/databases/psycinfo",
+      "access_note": "订阅"
+    },
+    {
+      "id": "S32",
+      "title": "OpenAlex scholarly graph",
+      "url": "https://help.openalex.org/data/works/",
+      "access_note": "元数据开放，原文权利各异"
+    },
+    {
+      "id": "S33",
+      "title": "NIST AI Risk Management Framework 1.0",
+      "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+      "access_note": "开放标准"
+    },
+    {
+      "id": "S34",
+      "title": "UNESCO Recommendation on Ethics of AI",
+      "url": "https://www.unesco.org/ethics-ai/en/recommendation",
+      "access_note": "可引用政策文件"
+    },
+    {
+      "id": "S35",
+      "title": "EU Commission GDPR special categories",
+      "url": "https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en",
+      "access_note": "遵守适用法律"
+    },
+    {
+      "id": "S36",
+      "title": "中华人民共和国个人信息保护法",
+      "url": "https://www.miit.gov.cn/jgsj/zfs/fl/art/2022/art_515a4b20c12f430eab54bb4f56d89f56.html",
+      "access_note": "遵守适用法律"
+    },
+    {
+      "id": "S37",
+      "title": "Henrich et al. WEIRD limitation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20550733/",
+      "access_note": "论文版权遵守出版方"
+    },
+    {
+      "id": "S38",
+      "title": "Disagreement Gets Mistaken for Bad Listening",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38630602/",
+      "access_note": "论文版权遵守出版方"
+    },
+    {
+      "id": "S39",
+      "title": "Listen for a change? PNAS field experiment",
+      "url": "https://doi.org/10.1073/pnas.2421982122",
+      "access_note": "论文版权遵守出版方"
+    }
+  ]
+}
